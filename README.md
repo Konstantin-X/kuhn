@@ -1,3 +1,6 @@
+# Article
+https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
+
 # Kuhn
 
 WordPress meets CSS Grid. designed and developed by [Morten Rand-Hendriksen](https://mor10.com). Kuhn is hyper-opinionated and developed to take advantage of modern CSS. It was developed for mor10.com and is released as a showcase of what CSS Grid can do for WordPress theme layouts.
